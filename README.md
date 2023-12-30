@@ -54,5 +54,4 @@ Here are a few things I've picked up along my learning journey : <br><br>
 <a href="https://github.com/mdshahco"><img src="https://img.shields.io/badge/-GitHub-414141?style=flat-square&labelColor=414141&logo=github&logoColor=white"/></a>
 
 <a href="https://join.skype.com/invite/p8Ub4CnbebrK"><img src="https://img.shields.io/badge/-Skype-00aff0?style=flat&logo=skype&logoColor=white"/></a>
-<a href="https://m.me/Shahedchysuzan"><img src="https://img.shields.io/badge/-Messenger-1877F2?style=flat&logo=messenger&logoColor=white"/></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mdshahco.mdshahco)
